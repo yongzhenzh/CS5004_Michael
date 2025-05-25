@@ -49,15 +49,3 @@ This project is a modular, top-down, text-based RPG game implemented in Java. It
 - Used recursion in map rendering and entity interactions
 - Designed reusable generic data structures to ensure type safety and code reuse
 
-## How to Run
-
-### Prerequisites
-
-- Java 17 or later
-
-### Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/text-rpg-game.git
-   cd text-rpg-game
